@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Gavin's Blog]]></title>
+  <link href="http://gavincheung.github.com/atom.xml" rel="self"/>
+  <link href="http://gavincheung.github.com/"/>
+  <updated>2012-12-03T23:27:21+08:00</updated>
+  <id>http://gavincheung.github.com/</id>
+  <author>
+    <name><![CDATA[Gavin Cheung]]></name>
+    <email><![CDATA[shengzhizhang@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, world]]></title>
+    <link href="http://gavincheung.github.com/blog/2012/12/03/hello/"/>
+    <updated>2012-12-03T23:24:00+08:00</updated>
+    <id>http://gavincheung.github.com/blog/2012/12/03/hello</id>
+    <content type="html"><![CDATA[<h2>Hello, world</h2>
+
+<p>This is a test post</p>
+]]></content>
+  </entry>
+  
+</feed>
